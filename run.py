@@ -2,10 +2,10 @@
 import time
 import schedule
 import pyautogui
+import abc123
 
 
 # makes proxecution pause for 10 sec
-abc
 
 # Perform the desired operations here
 
@@ -32,6 +32,3 @@ while time.time() < timeout_start + timeout:
         break
     test -= 1
 	
-	
-	
-qukt obog ifzj flzv
