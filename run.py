@@ -1,11 +1,11 @@
 # Test file for moving cursor 123
-import time1
+import time
 import schedule
 import pyautogui
 
 
 # makes proxecution pause for 10 sec
-
+abc
 
 # Perform the desired operations here
 
