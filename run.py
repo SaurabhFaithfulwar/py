@@ -2,14 +2,13 @@
 import time
 import schedule
 import pyautogui
-import abc123
 
 
 # makes proxecution pause for 10 sec
 
 # Perform the desired operations here
 
-timeout_start = time.time()
+timeout_start = time.time
 timeout = 29880
 
 
